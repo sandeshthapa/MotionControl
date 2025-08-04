@@ -6,8 +6,8 @@ A simple controller to calcuate forces.
 Clone the repository 
 
 ```
-git clone https://github.com/sandeshthapa/simplePID
-cd simplePID 
+git@github.com:sandeshthapa/MotionControl.git
+cd MotionControl/Control_design 
 cd build 
 cmake ..
 make 

@@ -11,6 +11,17 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
+
+*/*.slxc 
+*/*.slxc.*
+
+*.out
+*/*.o
+*.exe
+*.bin
+*.elf
+
+
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
